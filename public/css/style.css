@@ -1,0 +1,13 @@
+div.cart-total-items>a:hover {
+    text-decoration: none; 
+}
+
+div.cart-total-items span {
+    position: relative; 
+    top: 5px;
+    left: 8px;
+}
+
+div.toolbar-item>a:hover { 
+ text-decoration: none; 
+}
